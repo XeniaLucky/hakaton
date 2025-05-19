@@ -1,0 +1,1766 @@
+[
+  {
+    "name": "Agaricus californicus",
+    "commonname": "California Agaricus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Agaricus_californicus_2.jpg/500px-Agaricus_californicus_2.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Agaricus californicus",
+      "instructions": "Сварить суп гриб agaricus californicus. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "петрушка",
+        "чеснок",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Agaricus hondensis",
+    "commonname": "Felt-ringed Agaricus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Agaricus_hondensis_71317.jpg/500px-Agaricus_hondensis_71317.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Agaricus hondensis",
+      "instructions": "Сделать жульен гриб agaricus hondensis. Приправить по вкусу.",
+      "ingredients": [
+        "сметана",
+        "лук",
+        "лук",
+        "мука"
+      ]
+    }
+  },
+  {
+    "name": "Agaricus moelleri",
+    "commonname": "Inky Mushroom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pe%C4%8D%C3%A1rka_perli%C4%8Dkov%C3%A1_Podkomorsk%C3%A9_lesy.jpg/500px-Pe%C4%8D%C3%A1rka_perli%C4%8Dkov%C3%A1_Podkomorsk%C3%A9_lesy.jpg",
+    "recipe": {
+      "name": "Сварить суп с Agaricus moelleri",
+      "instructions": "Сварить суп гриб agaricus moelleri. Приправить по вкусу.",
+      "ingredients": [
+        "лук",
+        "сливки",
+        "куриный бульон",
+        "мука",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Agaricus placomyces",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Agaricus.placomyces..000...jpg/500px-Agaricus.placomyces..000...jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Agaricus placomyces",
+      "instructions": "Добавить в омлет гриб agaricus placomyces. Приправить по вкусу.",
+      "ingredients": [
+        "укроп",
+        "лук",
+        "сыр",
+        "чеснок",
+        "петрушка",
+        "сметана"
+      ]
+    }
+  },
+  {
+    "name": "Agaricus xanthodermus",
+    "commonname": "Yellow-staining mushroom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2010-11-13_Agaricus_xanthodermus_Genev_120348_crop.jpg/500px-2010-11-13_Agaricus_xanthodermus_Genev_120348_crop.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Agaricus xanthodermus",
+      "instructions": "Добавить в омлет гриб agaricus xanthodermus. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "чеснок",
+        "соль",
+        "сметана"
+      ]
+    }
+  },
+  {
+    "name": "Amanita abrupta",
+    "commonname": "American abrupt-bulbed Lepidella",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amanita_abrupta_49115.jpg/500px-Amanita_abrupta_49115.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Amanita abrupta",
+      "instructions": "Запечь с сыром гриб amanita abrupta. Приправить по вкусу.",
+      "ingredients": [
+        "картофель",
+        "сливки",
+        "лук"
+      ]
+    }
+  },
+  {
+    "name": "Amanita aprica",
+    "commonname": "Sunshine amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Amanita_aprica_BC.jpg/500px-Amanita_aprica_BC.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Amanita aprica",
+      "instructions": "Добавить в омлет гриб amanita aprica. Приправить по вкусу.",
+      "ingredients": [
+        "сметана",
+        "сливки",
+        "масло",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Amanita arocheae",
+    "commonname": "Latin American death cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Amanita_arocheae_353827.jpg/500px-Amanita_arocheae_353827.jpg",
+    "recipe": {
+      "name": "Сварить суп с Amanita arocheae",
+      "instructions": "Сварить суп гриб amanita arocheae. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "куриный бульон",
+        "соль",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Amanita bisporigera",
+    "commonname": "Eastern destroying angel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Amanita_bisporigera_17932.jpg/500px-Amanita_bisporigera_17932.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Amanita bisporigera",
+      "instructions": "Тушить с картофелем гриб amanita bisporigera. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "соль",
+        "чеснок",
+        "перец",
+        "картофель",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Amanita boudieri",
+    "commonname": "Boudier's lepidella",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Amanita_boudieri_%281%29.jpg/500px-Amanita_boudieri_%281%29.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Amanita boudieri",
+      "instructions": "Обжарить с луком гриб amanita boudieri. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "картофель",
+        "петрушка",
+        "петрушка",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Amanita citrina",
+    "commonname": "False Death Cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2006-08-09_Amanita_citrina_46465_cropped.jpg/500px-2006-08-09_Amanita_citrina_46465_cropped.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Amanita citrina",
+      "instructions": "Обжарить с луком гриб amanita citrina. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "лук",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Amanita cokeri",
+    "commonname": "Coker's amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amanita_cokeri_52268.jpg/500px-Amanita_cokeri_52268.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Amanita cokeri",
+      "instructions": "Обжарить с луком гриб amanita cokeri. Приправить по вкусу.",
+      "ingredients": [
+        "перец",
+        "чеснок",
+        "лук",
+        "петрушка",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Amanita cothurnata",
+    "commonname": "Booted amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amanita_multisquamosa_89571.jpg/500px-Amanita_multisquamosa_89571.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Amanita cothurnata",
+      "instructions": "Добавить в омлет гриб amanita cothurnata. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "чеснок",
+        "укроп",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Amanita echinocephala",
+    "commonname": "European solitary amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Am.echin.jpg/500px-Am.echin.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Amanita echinocephala",
+      "instructions": "Сделать жульен гриб amanita echinocephala. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "масло",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Amanita farinosa",
+    "commonname": "Powdery Amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amanita_farinosa_02.jpg/500px-Amanita_farinosa_02.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Amanita farinosa",
+      "instructions": "Тушить с картофелем гриб amanita farinosa. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "укроп",
+        "картофель",
+        "сливки",
+        "сметана"
+      ]
+    }
+  },
+  {
+    "name": "Amanita fuliginea",
+    "commonname": "East Asian brown death cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Amanita_fuliginea_Hongo_803897.jpg/500px-Amanita_fuliginea_Hongo_803897.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Amanita fuliginea",
+      "instructions": "Обжарить с луком гриб amanita fuliginea. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "сливки",
+        "куриный бульон",
+        "петрушка",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Amanita gemmata",
+    "commonname": "Gemmed Amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20060909_Amanita_gemmata_young.jpg/500px-20060909_Amanita_gemmata_young.jpg",
+    "recipe": {
+      "name": "Сварить суп с Amanita gemmata",
+      "instructions": "Сделать жульен гриб amanita gemmata. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "чеснок",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Amanita gioiosa",
+    "commonname": "Pebbly Soil Amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amanita_gioiosa_%281%29.jpg/500px-Amanita_gioiosa_%281%29.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Amanita gioiosa",
+      "instructions": "Сделать жульен гриб amanita gioiosa. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "сметана",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Amanita magnivelaris",
+    "commonname": "Great felt skirt destroying angel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amanita_magnivelaris_95937.jpg/500px-Amanita_magnivelaris_95937.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Amanita magnivelaris",
+      "instructions": "Обжарить с луком гриб amanita magnivelaris. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "укроп",
+        "перец",
+        "перец",
+        "перец",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Amanita muscaria",
+    "commonname": "Fly agaric",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amanita_muscaria_After_Rain.jpg/500px-Amanita_muscaria_After_Rain.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Amanita muscaria",
+      "instructions": "Добавить в омлет гриб amanita muscaria. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "куриный бульон",
+        "петрушка",
+        "мука",
+        "петрушка",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Amanita neoovoidea",
+    "commonname": "East Asian egg amidella",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Amanita_neoovoidea_03.jpg/500px-Amanita_neoovoidea_03.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Amanita neoovoidea",
+      "instructions": "Тушить с картофелем гриб amanita neoovoidea. Приправить по вкусу.",
+      "ingredients": [
+        "укроп",
+        "перец",
+        "масло",
+        "масло",
+        "укроп",
+        "мука"
+      ]
+    }
+  },
+  {
+    "name": "Amanita ocreata",
+    "commonname": "Western destroying angel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Amanita_ocreata_79782.jpg/500px-Amanita_ocreata_79782.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Amanita ocreata",
+      "instructions": "Сделать жульен гриб amanita ocreata. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "куриный бульон",
+        "мука",
+        "перец"
+      ]
+    }
+  },
+  {
+    "name": "Amanita pantherina",
+    "commonname": "Panther cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Amanita_pantherina_2013_G1.jpg/500px-Amanita_pantherina_2013_G1.jpg",
+    "recipe": {
+      "name": "Сварить суп с Amanita pantherina",
+      "instructions": "Сделать жульен гриб amanita pantherina. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "картофель",
+        "сметана",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Amanita phalloides",
+    "commonname": "death cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amanita_phalloides_1.JPG/500px-Amanita_phalloides_1.JPG",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Amanita phalloides",
+      "instructions": "Обжарить с луком гриб amanita phalloides. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "перец",
+        "сливки",
+        "перец",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Amanita porphyria",
+    "commonname": "Grey veiled Amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amanita_porphyria_Alb._%26_Schwein_355243_2013-08-06_(cropped).jpg/500px-Amanita_porphyria_Alb._%26_Schwein_355243_2013-08-06_(cropped).jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Amanita porphyria",
+      "instructions": "Сварить суп гриб amanita porphyria. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "сыр",
+        "куриный бульон",
+        "петрушка"
+      ]
+    }
+  },
+  {
+    "name": "Amanita pseudoporphyria",
+    "commonname": "Hongo's false death cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Amanita_pseudoporphyria_10.jpg/500px-Amanita_pseudoporphyria_10.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Amanita pseudoporphyria",
+      "instructions": "Добавить в сливочный соус гриб amanita pseudoporphyria. Приправить по вкусу.",
+      "ingredients": [
+        "чеснок",
+        "укроп",
+        "петрушка"
+      ]
+    }
+  },
+  {
+    "name": "Amanita regalis",
+    "commonname": "Royal fly agaric",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2000_Amanita_regalis_cropped.jpg/500px-2000_Amanita_regalis_cropped.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Amanita regalis",
+      "instructions": "Добавить в сливочный соус гриб amanita regalis. Приправить по вкусу.",
+      "ingredients": [
+        "лук",
+        "мука",
+        "сметана",
+        "картофель",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Amanita smithiana",
+    "commonname": "Smith's Amanita",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amanita_smithiana_1403.jpg/500px-Amanita_smithiana_1403.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Amanita smithiana",
+      "instructions": "Обжарить с луком гриб amanita smithiana. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "куриный бульон",
+        "картофель",
+        "лук"
+      ]
+    }
+  },
+  {
+    "name": "Amanita sphaerobulbosa",
+    "commonname": "Asian abrupt-bulbed Lepidella",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Amanita_sphaerobulbosa_01.jpg/500px-Amanita_sphaerobulbosa_01.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Amanita sphaerobulbosa",
+      "instructions": "Тушить с картофелем гриб amanita sphaerobulbosa. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "укроп",
+        "куриный бульон",
+        "перец",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Amanita subjunquillea",
+    "commonname": "East Asian death cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tamagotakemodoi.jpg/500px-Tamagotakemodoi.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Amanita subjunquillea",
+      "instructions": "Сварить суп гриб amanita subjunquillea. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "чеснок",
+        "мука"
+      ]
+    }
+  },
+  {
+    "name": "Amanita verna",
+    "commonname": "Fool's mushroom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amanita_verna-02.jpg/500px-Amanita_verna-02.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Amanita verna",
+      "instructions": "Обжарить с луком гриб amanita verna. Приправить по вкусу.",
+      "ingredients": [
+        "лук",
+        "укроп",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Amanita virosa",
+    "commonname": "European destroying angel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Destroying_Angel_02.jpg/500px-Destroying_Angel_02.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Amanita virosa",
+      "instructions": "Сделать жульен гриб amanita virosa. Приправить по вкусу.",
+      "ingredients": [
+        "картофель",
+        "сыр",
+        "сметана",
+        "соль",
+        "картофель",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Ampulloclitocybe clavipes",
+    "commonname": "Club-footed clitocybe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2012-10-19_Ampulloclitocybe_clavipes_%28Pers.%29_Redhead%2C_Lutzoni%2C_Moncalvo_%26_Vilgalys_274294.jpg/500px-2012-10-19_Ampulloclitocybe_clavipes_%28Pers.%29_Redhead%2C_Lutzoni%2C_Moncalvo_%26_Vilgalys_274294.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Ampulloclitocybe clavipes",
+      "instructions": "Добавить в сливочный соус гриб ampulloclitocybe clavipes. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "масло",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Chlorophyllum molybdites",
+    "commonname": "Green-spored parasol",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2014-04-18_Chlorophyllum_molybdites_%28G._Mey.-_Fr.%29_Massee_415792.jpg/500px-2014-04-18_Chlorophyllum_molybdites_%28G._Mey.-_Fr.%29_Massee_415792.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Chlorophyllum molybdites",
+      "instructions": "Тушить с картофелем гриб chlorophyllum molybdites. Приправить по вкусу.",
+      "ingredients": [
+        "перец",
+        "куриный бульон",
+        "перец"
+      ]
+    }
+  },
+  {
+    "name": "Claviceps purpurea",
+    "commonname": "Ergot",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Claviceps_purpurea.JPG/500px-Claviceps_purpurea.JPG",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Claviceps purpurea",
+      "instructions": "Запечь с сыром гриб claviceps purpurea. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "сливки",
+        "чеснок",
+        "сыр",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Clitocybe dealbata",
+    "commonname": "ivory funnel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Clitocybe_dealbata.jpg/500px-Clitocybe_dealbata.jpg",
+    "recipe": {
+      "name": "Сварить суп с Clitocybe dealbata",
+      "instructions": "Сварить суп гриб clitocybe dealbata. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "сметана",
+        "чеснок",
+        "чеснок",
+        "сметана",
+        "соль"
+      ]
+    }
+  },
+  {
+    "name": "Clitocybe rivulosa",
+    "commonname": "false champignon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Clitocybe_rivulosa_20081116w.JPG/500px-Clitocybe_rivulosa_20081116w.JPG",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Clitocybe rivulosa",
+      "instructions": "Сделать жульен гриб clitocybe rivulosa. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "укроп",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Coprinopsis atramentaria",
+    "commonname": "Common ink cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/UNK_mushroom_1.JPG/500px-UNK_mushroom_1.JPG",
+    "recipe": {
+      "name": "Добавить в омлет с Coprinopsis atramentaria",
+      "instructions": "Тушить с картофелем гриб coprinopsis atramentaria. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "картофель",
+        "куриный бульон",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Coprinopsis romagnesiana",
+    "commonname": "Scaly ink cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2005-12-14_Coprinopsis_romagnesiana_%28Singer%29_Redhead%2C_Vilgalys_%26_Moncalvo_10285.jpg/500px-2005-12-14_Coprinopsis_romagnesiana_%28Singer%29_Redhead%2C_Vilgalys_%26_Moncalvo_10285.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Coprinopsis romagnesiana",
+      "instructions": "Обжарить с луком гриб coprinopsis romagnesiana. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "мука",
+        "сыр",
+        "соль"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius bolaris",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rotschuppige_Raukopf_Cortinarius_bolaris.JPG/500px-Rotschuppige_Raukopf_Cortinarius_bolaris.JPG",
+    "recipe": {
+      "name": "Тушить с картофелем с Cortinarius bolaris",
+      "instructions": "Тушить с картофелем гриб cortinarius bolaris. Приправить по вкусу.",
+      "ingredients": [
+        "лук",
+        "масло",
+        "картофель",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius cinnabarinus",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cortinarius_cinnabarinus.jpg/500px-Cortinarius_cinnabarinus.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Cortinarius cinnabarinus",
+      "instructions": "Добавить в омлет гриб cortinarius cinnabarinus. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "сметана",
+        "перец",
+        "соль",
+        "перец"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius cinnamomeoluteus",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cortinarius_cinnamomeoluteus_a2.jpg/500px-Cortinarius_cinnamomeoluteus_a2.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Cortinarius cinnamomeoluteus",
+      "instructions": "Сделать жульен гриб cortinarius cinnamomeoluteus. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "сливки",
+        "куриный бульон",
+        "петрушка",
+        "укроп",
+        "сметана"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius cinnamomeus",
+    "commonname": "Cinnamon webcap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cortinarius_cinnamomeus_%2832328861131%29.jpg/500px-Cortinarius_cinnamomeus_%2832328861131%29.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Cortinarius cinnamomeus",
+      "instructions": "Добавить в сливочный соус гриб cortinarius cinnamomeus. Приправить по вкусу.",
+      "ingredients": [
+        "перец",
+        "сливки",
+        "чеснок",
+        "сливки"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius gentilis",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cortinarius_gentilis_group.jpg/500px-Cortinarius_gentilis_group.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Cortinarius gentilis",
+      "instructions": "Тушить с картофелем гриб cortinarius gentilis. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "перец",
+        "сыр",
+        "сливки",
+        "картофель",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius limonius",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2013-08-14_Cortinarius_limonius_%28Fr.%29_Fr_361131.jpg/500px-2013-08-14_Cortinarius_limonius_%28Fr.%29_Fr_361131.jpg",
+    "recipe": {
+      "name": "Сварить суп с Cortinarius limonius",
+      "instructions": "Обжарить с луком гриб cortinarius limonius. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "куриный бульон",
+        "соль",
+        "сливки",
+        "лук",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius malicorius",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2010-08-16_Cortinarius_malicorius_Fr_267548.jpg/500px-2010-08-16_Cortinarius_malicorius_Fr_267548.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Cortinarius malicorius",
+      "instructions": "Обжарить с луком гриб cortinarius malicorius. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "лук",
+        "чеснок",
+        "картофель",
+        "картофель",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius mirandus",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cortinarius_mirandus.jpg/500px-Cortinarius_mirandus.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Cortinarius mirandus",
+      "instructions": "Запечь с сыром гриб cortinarius mirandus. Приправить по вкусу.",
+      "ingredients": [
+        "укроп",
+        "петрушка",
+        "сметана"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius orellanus",
+    "commonname": "Fool's webcap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Corellanus.jpg/500px-Corellanus.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Cortinarius orellanus",
+      "instructions": "Добавить в сливочный соус гриб cortinarius orellanus. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "мука",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius phoeniceus",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cortinarius_phoeniceus.JPG/500px-Cortinarius_phoeniceus.JPG",
+    "recipe": {
+      "name": "Сделать жульен с Cortinarius phoeniceus",
+      "instructions": "Сделать жульен гриб cortinarius phoeniceus. Приправить по вкусу.",
+      "ingredients": [
+        "укроп",
+        "сливки",
+        "куриный бульон",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius rubellus",
+    "commonname": "deadly webcap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cortinarius_rubellus_01.jpg/500px-Cortinarius_rubellus_01.jpg",
+    "recipe": {
+      "name": "Сварить суп с Cortinarius rubellus",
+      "instructions": "Запечь с сыром гриб cortinarius rubellus. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "чеснок",
+        "петрушка",
+        "сливки"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius rubicundulus",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2013-01-19_Cortinarius_rubicundulus_%28Rea%29_A._Pearson_303395.jpg/500px-2013-01-19_Cortinarius_rubicundulus_%28Rea%29_A._Pearson_303395.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Cortinarius rubicundulus",
+      "instructions": "Запечь с сыром гриб cortinarius rubicundulus. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "соль",
+        "картофель",
+        "перец"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius smithii",
+    "commonname": "Smith's Cortinarius",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cortinarius_smithii_292837.jpg/500px-Cortinarius_smithii_292837.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Cortinarius smithii",
+      "instructions": "Запечь с сыром гриб cortinarius smithii. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "масло",
+        "перец",
+        "укроп",
+        "лук",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Cortinarius splendens",
+    "commonname": "splendid webcap, yellow clubbed foot",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2008-11-26_Cortinarius_splendens_Rob._Henry_234180.jpg/500px-2008-11-26_Cortinarius_splendens_Rob._Henry_234180.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Cortinarius splendens",
+      "instructions": "Тушить с картофелем гриб cortinarius splendens. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "масло",
+        "укроп",
+        "картофель",
+        "петрушка"
+      ]
+    }
+  },
+  {
+    "name": "Cudonia circinans",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cudonia_circinans_-_Helm-Kreisling.jpg/500px-Cudonia_circinans_-_Helm-Kreisling.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Cudonia circinans",
+      "instructions": "Добавить в омлет гриб cudonia circinans. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "лук",
+        "соль",
+        "перец",
+        "сливки"
+      ]
+    }
+  },
+  {
+    "name": "Echinoderma asperum",
+    "commonname": "Freckled dapperling",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Echinoderma_asperum20061022wa.jpg/500px-Echinoderma_asperum20061022wa.jpg",
+    "recipe": {
+      "name": "Сварить суп с Echinoderma asperum",
+      "instructions": "Обжарить с луком гриб echinoderma asperum. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "сметана",
+        "перец",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Entoloma rhodopolium",
+    "commonname": "Wood pinkgill",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Entoloma_rhodopolium_-_Lindsey.jpg/500px-Entoloma_rhodopolium_-_Lindsey.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Entoloma rhodopolium",
+      "instructions": "Тушить с картофелем гриб entoloma rhodopolium. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "лук",
+        "куриный бульон",
+        "сыр",
+        "петрушка"
+      ]
+    }
+  },
+  {
+    "name": "Entoloma sinuatum",
+    "commonname": "Livid Entoloma",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2005-09-25_Entoloma_sinuatum_cropped.jpg/500px-2005-09-25_Entoloma_sinuatum_cropped.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Entoloma sinuatum",
+      "instructions": "Запечь с сыром гриб entoloma sinuatum. Приправить по вкусу.",
+      "ingredients": [
+        "чеснок",
+        "петрушка",
+        "сыр",
+        "перец",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Galerina marginata",
+    "commonname": "autumn skullcap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Galerina_marginata.jpg/500px-Galerina_marginata.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Galerina marginata",
+      "instructions": "Запечь с сыром гриб galerina marginata. Приправить по вкусу.",
+      "ingredients": [
+        "картофель",
+        "мука",
+        "картофель",
+        "чеснок",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Gyromitra",
+    "commonname": "false morel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fr%C3%BChjahrslorchel.JPG/500px-Fr%C3%BChjahrslorchel.JPG",
+    "recipe": {
+      "name": "Сварить суп с Gyromitra",
+      "instructions": "Тушить с картофелем гриб gyromitra. Приправить по вкусу.",
+      "ingredients": [
+        "перец",
+        "соль",
+        "соль"
+      ]
+    }
+  },
+  {
+    "name": "Gyromitra perlata",
+    "commonname": "Pig's ears",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2010-02-15_Discina_perlata_%28Fr.%29_Fr_93104.jpg/500px-2010-02-15_Discina_perlata_%28Fr.%29_Fr_93104.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Gyromitra perlata",
+      "instructions": "Обжарить с луком гриб gyromitra perlata. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "масло",
+        "мука",
+        "сметана"
+      ]
+    }
+  },
+  {
+    "name": "Hapalopilus nidulans",
+    "commonname": "Tender nesting polypore",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detail_of_a_160_mm_diameter_Hapalopilus_nidulans_or_Hapalopilus_rutilans_%28Cinnamon_Bracket_or_Tender_Nesting_Polypore%2C_D%3D_Zimtfarbener_Weichporling%2C_F%3D_Polypore_rutilant_%2C_NL%3D_Kussenvormige_houtzwam%29_white_spores_and_c_-_panoramio.jpg/500px-Detail_of_a_160_mm_diameter_Hapalopilus_nidulans_or_Hapalopilus_rutilans_%28Cinnamon_Bracket_or_Tender_Nesting_Polypore%2C_D%3D_Zimtfarbener_Weichporling%2C_F%3D_Polypore_rutilant_%2C_NL%3D_Kussenvormige_houtzwam%29_white_spores_and_c_-_panoramio.jpg",
+    "recipe": {
+      "name": "Сварить суп с Hapalopilus nidulans",
+      "instructions": "Добавить в сливочный соус гриб hapalopilus nidulans. Приправить по вкусу.",
+      "ingredients": [
+        "картофель",
+        "масло",
+        "чеснок",
+        "лук",
+        "лук"
+      ]
+    }
+  },
+  {
+    "name": "Hebeloma crustuliniforme",
+    "commonname": "Poison pie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2012-10-16_Hebeloma_crustuliniforme_%28Bull.%29_Qu%C3%A9l_272561_crop.jpg/500px-2012-10-16_Hebeloma_crustuliniforme_%28Bull.%29_Qu%C3%A9l_272561_crop.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Hebeloma crustuliniforme",
+      "instructions": "Обжарить с луком гриб hebeloma crustuliniforme. Приправить по вкусу.",
+      "ingredients": [
+        "перец",
+        "укроп",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Hebeloma sinapizans",
+    "commonname": "Rough-stalked hebeloma",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hebeloma_sinapizans.JPG/500px-Hebeloma_sinapizans.JPG",
+    "recipe": {
+      "name": "Тушить с картофелем с Hebeloma sinapizans",
+      "instructions": "Добавить в омлет гриб hebeloma sinapizans. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "куриный бульон",
+        "лук"
+      ]
+    }
+  },
+  {
+    "name": "Helvella crispa",
+    "commonname": "Elfin saddle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2011-11-06_Helvella_crispa_crop.jpg/500px-2011-11-06_Helvella_crispa_crop.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Helvella crispa",
+      "instructions": "Сварить суп гриб helvella crispa. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "лук",
+        "сливки"
+      ]
+    }
+  },
+  {
+    "name": "Helvella dryophila",
+    "commonname": "Oak-loving elfin saddle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Helvella_dryophila_597531.jpg/500px-Helvella_dryophila_597531.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Helvella dryophila",
+      "instructions": "Сварить суп гриб helvella dryophila. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "укроп",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Helvella lactea",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Helvella_lactea_%2832841908675%29.jpg/500px-Helvella_lactea_%2832841908675%29.jpg",
+    "recipe": {
+      "name": "Сварить суп с Helvella lactea",
+      "instructions": "Обжарить с луком гриб helvella lactea. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "мука",
+        "соль",
+        "сыр",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Helvella lacunosa",
+    "commonname": "Slate grey saddle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Helvella_lacunosa_%284496682391%29.jpg/500px-Helvella_lacunosa_%284496682391%29.jpg",
+    "recipe": {
+      "name": "Сварить суп с Helvella lacunosa",
+      "instructions": "Добавить в омлет гриб helvella lacunosa. Приправить по вкусу.",
+      "ingredients": [
+        "чеснок",
+        "петрушка",
+        "лук"
+      ]
+    }
+  },
+  {
+    "name": "Helvella vespertina",
+    "commonname": "Western black elfin saddle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Helvella_vespertina_316605.jpg/500px-Helvella_vespertina_316605.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Helvella vespertina",
+      "instructions": "Сделать жульен гриб helvella vespertina. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "укроп",
+        "перец",
+        "сливки"
+      ]
+    }
+  },
+  {
+    "name": "Hypholoma fasciculare",
+    "commonname": "Sulphur tuft",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hypholoma_fasciculare_LC0091.jpg/500px-Hypholoma_fasciculare_LC0091.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Hypholoma fasciculare",
+      "instructions": "Сделать жульен гриб hypholoma fasciculare. Приправить по вкусу.",
+      "ingredients": [
+        "чеснок",
+        "укроп",
+        "сметана",
+        "сливки",
+        "перец",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Hypholoma lateritium",
+    "commonname": "Brick cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ziegelrote_Schwefelkopf_Hypholoma_lateritium.jpg/500px-Ziegelrote_Schwefelkopf_Hypholoma_lateritium.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Hypholoma lateritium",
+      "instructions": "Добавить в сливочный соус гриб hypholoma lateritium. Приправить по вкусу.",
+      "ingredients": [
+        "сыр",
+        "сыр",
+        "картофель",
+        "масло",
+        "куриный бульон",
+        "соль"
+      ]
+    }
+  },
+  {
+    "name": "Hypholoma marginatum",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2011-12-24_Hypholoma_marginatum_%28Pers.%29_J._Schr%C3%B6t_191080.jpg/500px-2011-12-24_Hypholoma_marginatum_%28Pers.%29_J._Schr%C3%B6t_191080.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Hypholoma marginatum",
+      "instructions": "Обжарить с луком гриб hypholoma marginatum. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "картофель",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Hypholoma radicosum",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hypholoma_a1.JPG/500px-Hypholoma_a1.JPG",
+    "recipe": {
+      "name": "Добавить в омлет с Hypholoma radicosum",
+      "instructions": "Сделать жульен гриб hypholoma radicosum. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "куриный бульон",
+        "картофель",
+        "соль",
+        "сметана",
+        "мука"
+      ]
+    }
+  },
+  {
+    "name": "Imperator rhodopurpureus",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lu%C4%8Dn%C3%AD_-_Boletus_rhodopurpureus_01.jpg/500px-Lu%C4%8Dn%C3%AD_-_Boletus_rhodopurpureus_01.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Imperator rhodopurpureus",
+      "instructions": "Тушить с картофелем гриб imperator rhodopurpureus. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "соль",
+        "масло",
+        "соль",
+        "петрушка",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Imperator torosus",
+    "commonname": "Brawny Bolete",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Boletus_torosus_4.JPG/500px-Boletus_torosus_4.JPG",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Imperator torosus",
+      "instructions": "Запечь с сыром гриб imperator torosus. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "сметана",
+        "лук",
+        "лук",
+        "соль",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Inocybe fibrosa",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._414.png/500px-Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._414.png",
+    "recipe": {
+      "name": "Сварить суп с Inocybe fibrosa",
+      "instructions": "Сделать жульен гриб inocybe fibrosa. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "сметана",
+        "соль"
+      ]
+    }
+  },
+  {
+    "name": "Inocybe geophylla",
+    "commonname": "Earthy inocybe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ino.geo.jpg/500px-Ino.geo.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Inocybe geophylla",
+      "instructions": "Тушить с картофелем гриб inocybe geophylla. Приправить по вкусу.",
+      "ingredients": [
+        "чеснок",
+        "перец",
+        "петрушка",
+        "лук"
+      ]
+    }
+  },
+  {
+    "name": "Inocybe hystrix",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2011-10-02_Inocybe_hystrix_%28Fr.%29_Karsten_172120.jpg/500px-2011-10-02_Inocybe_hystrix_%28Fr.%29_Karsten_172120.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Inocybe hystrix",
+      "instructions": "Тушить с картофелем гриб inocybe hystrix. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "петрушка",
+        "перец",
+        "картофель",
+        "петрушка",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Inocybe lacera",
+    "commonname": "Torn fibercap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Inocybe_spec._-_Lindsey_1.jpg/500px-Inocybe_spec._-_Lindsey_1.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Inocybe lacera",
+      "instructions": "Добавить в сливочный соус гриб inocybe lacera. Приправить по вкусу.",
+      "ingredients": [
+        "лук",
+        "куриный бульон",
+        "перец"
+      ]
+    }
+  },
+  {
+    "name": "Inocybe lilacina",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2011-01-23_Inocybe_geophylla_var._lilacina_Gillet_132565.jpg/500px-2011-01-23_Inocybe_geophylla_var._lilacina_Gillet_132565.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Inocybe lilacina",
+      "instructions": "Сделать жульен гриб inocybe lilacina. Приправить по вкусу.",
+      "ingredients": [
+        "картофель",
+        "чеснок",
+        "куриный бульон",
+        "укроп",
+        "картофель",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Inocybe rimosa",
+    "commonname": "Straw-Colored Fiber Head",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2011-11-26_Inocybe_rimosa_%28Bull.%29_P._Kumm_185170.jpg/500px-2011-11-26_Inocybe_rimosa_%28Bull.%29_P._Kumm_185170.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Inocybe rimosa",
+      "instructions": "Добавить в сливочный соус гриб inocybe rimosa. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "чеснок",
+        "чеснок",
+        "петрушка",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Inocybe sublilacina",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Inocybe_sublilacina.jpg/500px-Inocybe_sublilacina.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Inocybe sublilacina",
+      "instructions": "Тушить с картофелем гриб inocybe sublilacina. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "мука",
+        "лук",
+        "сливки",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Inosperma erubescens",
+    "commonname": "red-staining inocybe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Inosperma_erubescens.jpg/500px-Inosperma_erubescens.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Inosperma erubescens",
+      "instructions": "Запечь с сыром гриб inosperma erubescens. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "куриный бульон",
+        "картофель",
+        "мука",
+        "соль"
+      ]
+    }
+  },
+  {
+    "name": "Lactarius torminosus",
+    "commonname": "Woolly milkcap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lactarius_torminosus_G2.jpg/500px-Lactarius_torminosus_G2.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Lactarius torminosus",
+      "instructions": "Тушить с картофелем гриб lactarius torminosus. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "картофель",
+        "сливки",
+        "сыр",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Lepiota brunneoincarnata",
+    "commonname": "deadly dapperling",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lepiota_brunneoincarnata_060823w.jpg/500px-Lepiota_brunneoincarnata_060823w.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Lepiota brunneoincarnata",
+      "instructions": "Тушить с картофелем гриб lepiota brunneoincarnata. Приправить по вкусу.",
+      "ingredients": [
+        "сметана",
+        "картофель",
+        "сливки",
+        "сливки",
+        "соль",
+        "перец"
+      ]
+    }
+  },
+  {
+    "name": "Lepiota castanea",
+    "commonname": "chestnut dapperling",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lepiota_castanea_70848.jpg/500px-Lepiota_castanea_70848.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Lepiota castanea",
+      "instructions": "Запечь с сыром гриб lepiota castanea. Приправить по вкусу.",
+      "ingredients": [
+        "укроп",
+        "куриный бульон",
+        "куриный бульон",
+        "лук"
+      ]
+    }
+  },
+  {
+    "name": "Lepiota helveola",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lepiota_helveola.png/500px-Lepiota_helveola.png",
+    "recipe": {
+      "name": "Сделать жульен с Lepiota helveola",
+      "instructions": "Добавить в омлет гриб lepiota helveola. Приправить по вкусу.",
+      "ingredients": [
+        "чеснок",
+        "соль",
+        "куриный бульон",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Lepiota subincarnata",
+    "commonname": "deadly parasol",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lepiota_subincarnata_117620.jpg/500px-Lepiota_subincarnata_117620.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Lepiota subincarnata",
+      "instructions": "Сварить суп гриб lepiota subincarnata. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "лук",
+        "картофель",
+        "сметана"
+      ]
+    }
+  },
+  {
+    "name": "Mycena diosma",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ruzovsky_vrch_Mycena_diosma_1.jpg/500px-Ruzovsky_vrch_Mycena_diosma_1.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Mycena diosma",
+      "instructions": "Сделать жульен гриб mycena diosma. Приправить по вкусу.",
+      "ingredients": [
+        "лук",
+        "масло",
+        "соль",
+        "сыр",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Mycena pura",
+    "commonname": "Lilac bonnet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rettichhelmling002_%281%29.JPG/500px-Rettichhelmling002_%281%29.JPG",
+    "recipe": {
+      "name": "Добавить в омлет с Mycena pura",
+      "instructions": "Обжарить с луком гриб mycena pura. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "масло",
+        "петрушка",
+        "петрушка",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Mycena rosea",
+    "commonname": "Rosy bonnet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mycena_rosea%2C_Rosy_Bonnet%2C_UKB.jpg/500px-Mycena_rosea%2C_Rosy_Bonnet%2C_UKB.jpg",
+    "recipe": {
+      "name": "Сварить суп с Mycena rosea",
+      "instructions": "Сделать жульен гриб mycena rosea. Приправить по вкусу.",
+      "ingredients": [
+        "перец",
+        "сливки",
+        "сливки"
+      ]
+    }
+  },
+  {
+    "name": "Omphalotus illudens",
+    "commonname": "Jack-O'lantern mushroom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Omphalotus_illudens_%2821630755718%29.jpg/500px-Omphalotus_illudens_%2821630755718%29.jpg",
+    "recipe": {
+      "name": "Сварить суп с Omphalotus illudens",
+      "instructions": "Сделать жульен гриб omphalotus illudens. Приправить по вкусу.",
+      "ingredients": [
+        "укроп",
+        "лук",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Omphalotus japonicus",
+    "commonname": "Tsukiyotake",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Omphalotus_guepiniformis_Berk_Neda_02.jpg/500px-Omphalotus_guepiniformis_Berk_Neda_02.jpg",
+    "recipe": {
+      "name": "Сварить суп с Omphalotus japonicus",
+      "instructions": "Сварить суп гриб omphalotus japonicus. Приправить по вкусу.",
+      "ingredients": [
+        "соль",
+        "чеснок",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Omphalotus nidiformis",
+    "commonname": "Ghost fungus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Omphalotus_nidiformis_OMP_9722.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Omphalotus nidiformis",
+      "instructions": "Тушить с картофелем гриб omphalotus nidiformis. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "мука",
+        "мука",
+        "масло",
+        "картофель",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Omphalotus olearius",
+    "commonname": "Jack-O'lantern mushroom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Omphalotus_olearius-Zavodnica.JPG/500px-Omphalotus_olearius-Zavodnica.JPG",
+    "recipe": {
+      "name": "Тушить с картофелем с Omphalotus olearius",
+      "instructions": "Сделать жульен гриб omphalotus olearius. Приправить по вкусу.",
+      "ingredients": [
+        "картофель",
+        "масло",
+        "куриный бульон",
+        "соль"
+      ]
+    }
+  },
+  {
+    "name": "Omphalotus olivascens",
+    "commonname": "Western jack-o'-lantern mushroom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Omphalotus_olivascens_125218.jpg/500px-Omphalotus_olivascens_125218.jpg",
+    "recipe": {
+      "name": "Сварить суп с Omphalotus olivascens",
+      "instructions": "Добавить в омлет гриб omphalotus olivascens. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "сливки",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Panaeolus cinctulus",
+    "commonname": "banded mottlegill",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2014-09-25_Panaeolus_cinctulus_%28Bolton%29_Britzelm_461676.jpg/500px-2014-09-25_Panaeolus_cinctulus_%28Bolton%29_Britzelm_461676.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Panaeolus cinctulus",
+      "instructions": "Сделать жульен гриб panaeolus cinctulus. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "масло",
+        "мука"
+      ]
+    }
+  },
+  {
+    "name": "Paxillus involutus",
+    "commonname": "brown roll-rim",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Paxillus_involutus_20061015w.jpg/500px-Paxillus_involutus_20061015w.jpg",
+    "recipe": {
+      "name": "Тушить с картофелем с Paxillus involutus",
+      "instructions": "Добавить в сливочный соус гриб paxillus involutus. Приправить по вкусу.",
+      "ingredients": [
+        "лук",
+        "куриный бульон",
+        "мука"
+      ]
+    }
+  },
+  {
+    "name": "Pholiotina rugosa",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Conocybe_filaris.jpg/500px-Conocybe_filaris.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Pholiotina rugosa",
+      "instructions": "Тушить с картофелем гриб pholiotina rugosa. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "мука",
+        "сливки",
+        "чеснок",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Pholiotina rugosa",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pholiotina_rugosa_62373.jpg/500px-Pholiotina_rugosa_62373.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Pholiotina rugosa",
+      "instructions": "Сварить суп гриб pholiotina rugosa. Приправить по вкусу.",
+      "ingredients": [
+        "сметана",
+        "сыр",
+        "сыр",
+        "соль",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Podostroma cornu-damae",
+    "commonname": "poison fire coral",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Podostroma_cornu-damae.jpg/500px-Podostroma_cornu-damae.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Podostroma cornu-damae",
+      "instructions": "Добавить в омлет гриб podostroma cornu-damae. Приправить по вкусу.",
+      "ingredients": [
+        "сметана",
+        "укроп",
+        "соль",
+        "сметана",
+        "куриный бульон",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Psilocybe semilanceata",
+    "commonname": "Liberty cap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Psilocybe_semilanceata_250px.jpg/500px-Psilocybe_semilanceata_250px.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Psilocybe semilanceata",
+      "instructions": "Добавить в сливочный соус гриб psilocybe semilanceata. Приправить по вкусу.",
+      "ingredients": [
+        "сливки",
+        "картофель",
+        "укроп",
+        "картофель",
+        "сметана",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Ramaria formosa",
+    "commonname": "Beautiful clavaria",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ramaria_formosa_Alan_Rockefeller.JPG/500px-Ramaria_formosa_Alan_Rockefeller.JPG",
+    "recipe": {
+      "name": "Добавить в омлет с Ramaria formosa",
+      "instructions": "Сварить суп гриб ramaria formosa. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "петрушка",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Ramaria neoformosa",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2009-11-11_Ramaria_neoformosa_64365_crop.jpg/500px-2009-11-11_Ramaria_neoformosa_64365_crop.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Ramaria neoformosa",
+      "instructions": "Тушить с картофелем гриб ramaria neoformosa. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "масло",
+        "сливки",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Ramaria pallida",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AD2009Sep13_Ramaria_pallida_01.jpg/500px-AD2009Sep13_Ramaria_pallida_01.jpg",
+    "recipe": {
+      "name": "Сделать жульен с Ramaria pallida",
+      "instructions": "Добавить в омлет гриб ramaria pallida. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "петрушка",
+        "лук",
+        "соль"
+      ]
+    }
+  },
+  {
+    "name": "Rubroboletus legaliae",
+    "commonname": "Le Gal's bolete",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lu%C4%8Dn%C3%AD_-_Boletus_legaliae_02.jpg/500px-Lu%C4%8Dn%C3%AD_-_Boletus_legaliae_02.jpg",
+    "recipe": {
+      "name": "Сварить суп с Rubroboletus legaliae",
+      "instructions": "Тушить с картофелем гриб rubroboletus legaliae. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "сметана",
+        "сливки",
+        "чеснок"
+      ]
+    }
+  },
+  {
+    "name": "Rubroboletus lupinus",
+    "commonname": "Wolves bolete",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Boletus_lupinus.jpg/500px-Boletus_lupinus.jpg",
+    "recipe": {
+      "name": "Сварить суп с Rubroboletus lupinus",
+      "instructions": "Обжарить с луком гриб rubroboletus lupinus. Приправить по вкусу.",
+      "ingredients": [
+        "укроп",
+        "сыр",
+        "чеснок",
+        "масло"
+      ]
+    }
+  },
+  {
+    "name": "Rubroboletus pulcherrimus",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2009-11-25_Boletus_pulcherrimus_Thiers_%26_Halling_66137.jpg/500px-2009-11-25_Boletus_pulcherrimus_Thiers_%26_Halling_66137.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Rubroboletus pulcherrimus",
+      "instructions": "Сделать жульен гриб rubroboletus pulcherrimus. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "соль",
+        "соль",
+        "чеснок",
+        "чеснок",
+        "куриный бульон"
+      ]
+    }
+  },
+  {
+    "name": "Rubroboletus satanas",
+    "commonname": "Satan's bolete",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Boletus-satanas-3_crop.jpg/500px-Boletus-satanas-3_crop.jpg",
+    "recipe": {
+      "name": "Обжарить с луком с Rubroboletus satanas",
+      "instructions": "Добавить в сливочный соус гриб rubroboletus satanas. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "укроп",
+        "сыр",
+        "сметана",
+        "масло",
+        "укроп"
+      ]
+    }
+  },
+  {
+    "name": "Russula emetica",
+    "commonname": "The sickener",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Russula_emetica1.JPG/500px-Russula_emetica1.JPG",
+    "recipe": {
+      "name": "Добавить в омлет с Russula emetica",
+      "instructions": "Тушить с картофелем гриб russula emetica. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "картофель",
+        "масло",
+        "куриный бульон",
+        "сметана"
+      ]
+    }
+  },
+  {
+    "name": "Sarcosphaera coronaria",
+    "commonname": "Pink crown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sarcosphaera_eximia_%28cropped%29.JPG/500px-Sarcosphaera_eximia_%28cropped%29.JPG",
+    "recipe": {
+      "name": "Обжарить с луком с Sarcosphaera coronaria",
+      "instructions": "Добавить в омлет гриб sarcosphaera coronaria. Приправить по вкусу.",
+      "ingredients": [
+        "петрушка",
+        "куриный бульон",
+        "перец",
+        "петрушка",
+        "мука",
+        "сливки"
+      ]
+    }
+  },
+  {
+    "name": "Tricholoma equestre",
+    "commonname": "Yellow knight",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tricholoma_equestre.jpg/500px-Tricholoma_equestre.jpg",
+    "recipe": {
+      "name": "Добавить в омлет с Tricholoma equestre",
+      "instructions": "Запечь с сыром гриб tricholoma equestre. Приправить по вкусу.",
+      "ingredients": [
+        "куриный бульон",
+        "картофель",
+        "перец",
+        "лук",
+        "картофель"
+      ]
+    }
+  },
+  {
+    "name": "Tricholoma pardinum",
+    "commonname": "Tiger tricholoma",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tricholoma_pardinum_112561_cropped.jpg/500px-Tricholoma_pardinum_112561_cropped.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Tricholoma pardinum",
+      "instructions": "Запечь с сыром гриб tricholoma pardinum. Приправить по вкусу.",
+      "ingredients": [
+        "масло",
+        "лук",
+        "сыр",
+        "соль",
+        "мука"
+      ]
+    }
+  },
+  {
+    "name": "Turbinellus floccosus",
+    "commonname": "Woolly false chanterelle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flickr_-_Nicholas_T_-_Forrest_H._Dutlinger_Natural_Area_%28Revisited%29_%2815%29.jpg/500px-Flickr_-_Nicholas_T_-_Forrest_H._Dutlinger_Natural_Area_%28Revisited%29_%2815%29.jpg",
+    "recipe": {
+      "name": "Добавить в сливочный соус с Turbinellus floccosus",
+      "instructions": "Тушить с картофелем гриб turbinellus floccosus. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "петрушка",
+        "лук",
+        "лук",
+        "сыр"
+      ]
+    }
+  },
+  {
+    "name": "Turbinellus kauffmanii",
+    "commonname": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gomphus_kauffmanii_%2832044787422%29.jpg/500px-Gomphus_kauffmanii_%2832044787422%29.jpg",
+    "recipe": {
+      "name": "Запечь с сыром с Turbinellus kauffmanii",
+      "instructions": "Добавить в сливочный соус гриб turbinellus kauffmanii. Приправить по вкусу.",
+      "ingredients": [
+        "мука",
+        "сливки",
+        "укроп",
+        "мука",
+        "картофель",
+        "перец"
+      ]
+    }
+  }
+]

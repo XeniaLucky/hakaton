@@ -1,0 +1,38 @@
+name: unexpected
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - image/logotip.gif
+    - assets/mushrooms_with_recipes.json
+
+
+  fonts:
+    - family: Poppins Bold
+      fonts:
+        - asset: fonts/Poppins-Bold.ttf
+    - family: Poppins Medium
+      fonts:
+        - asset: fonts/Poppins-Medium.ttf
+    - family: Poppins Regular
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
